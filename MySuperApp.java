@@ -6,6 +6,7 @@ public class MySuperApp {
 	static String name;
 	static String name1;
 	static String name2;
+	static String line;
 
 	
 	
@@ -16,11 +17,13 @@ public class MySuperApp {
 		d = x + y;
 		name = "My";
 		name1 = "Super";
-		name2 = "App"
+		name2 = "App";
+		line = "-----------------------------"
 
 		
 		System.out.println("D = " + d);
-        System out.println(name + " " + name1 + " " + name2);		
+        System out.println(name + " " + name1 + " " + name2);
+        System.out.println(line);		
 	}
 }
 		
