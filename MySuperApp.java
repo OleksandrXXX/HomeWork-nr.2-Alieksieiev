@@ -12,9 +12,9 @@ public class MySuperApp {
 	
 	public static void main (String[] args) {
 		
-		x = 1;
-		y = 3;
-		d = x + y;
+		x = 1 + 5;
+		y = 3 + 8;
+		d = x - y;
 		name = "My";
 		name1 = "Super";
 		name2 = "App";
