@@ -1,4 +1,7 @@
-Git is a DevOps tool used for source code management. 
-It is a free and open-source version control system used to handle small to very large projects efficiently. 
-Git is used to tracking changes in the source code, 
+- Git is a DevOps tool used for source code management. 
+- It is a free and open-source version control system used to handle small to very large projects efficiently. 
+- Git is used to tracking changes in the source code, 
 enabling multiple developers to work together on non-linear development.
+- Git is a version control system used for tracking changes in computer files. 
+- It is generally used for source code management in software development.
+- Git is used to tracking changes in the source code. 
